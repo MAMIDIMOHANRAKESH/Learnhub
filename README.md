@@ -34,5 +34,5 @@ This architecture supports real-time communication, efficient data exchange, and
 How to Run
 1️⃣ Clone the repository:
 
-git clone https://github.com/Marencynatha/Learnhub.git
+git clone https://github.com/MAMIDIMOHANRAKESH/Learnhub/blob/main/README.md
 
