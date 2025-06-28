@@ -1,3 +1,4 @@
+LearnHub: Your Center for Skill Enhancement
 LearnHub is an online learning platform (OLP) that provides a variety of tools and resources to facilitate learning and education over the internet. The platform offers flexibility and accessibility for learners of all ages and backgrounds.
 
 Features
@@ -34,4 +35,4 @@ How to Run
 1️⃣ Clone the repository:
 
 git clone https://github.com/Marencynatha/Learnhub.git
-# Learnhub
+
